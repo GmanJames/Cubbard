@@ -1,0 +1,27 @@
+{
+  "name": "cubbard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmanjames/cubbard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmanjames/cubbard/issues"
+  },
+  "homepage": "https://github.com/gmanjames/cubbard#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "mini-css-extract-plugin": "^0.4.0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "webpack": "^4.9.1",
+    "webpack-cli": "^2.1.4"
+  }
+}

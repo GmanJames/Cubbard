@@ -1,1 +1,4 @@
 **__pycache__
+node_modules
+static/css/*.css
+static/js/*.js
